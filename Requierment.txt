@@ -1,0 +1,8 @@
+
+**requirements.txt**
+
+
+```plaintext
+selenium
+webdriver-manager
+requests
